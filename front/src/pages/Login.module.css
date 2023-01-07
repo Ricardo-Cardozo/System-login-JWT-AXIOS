@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  margin: 2em;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(14, 108, 240);
+}
+
+p {
+  font-size: 20px;
+}
