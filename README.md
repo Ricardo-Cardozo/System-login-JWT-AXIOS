@@ -3,7 +3,7 @@
 * npm install
 ---
 
-# **System login and register!
+# System login and register!
 
 * This project was make with Node.js, MongoDB and React.js, using JWT to authentication.
 
